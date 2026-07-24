@@ -2,7 +2,7 @@
 
 Hi! I'm a second-year Computer Science student.
 
-I'm learning Java from the CodeHelp (Love Babbar) YouTube course.
+I'm learning Java.
 
 This repository contains my Java practice programs and learning progress.
 
